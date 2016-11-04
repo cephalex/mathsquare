@@ -1,0 +1,8 @@
+- + 4
+* - +
++ - 8
+- - -
+- - 1
+8 1 5
+
+http://mentalfloss.com/article/53721/brain-game-math-square-192
