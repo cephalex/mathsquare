@@ -16,3 +16,18 @@ ___________
  8   1   5
 ```
 
+The input file for the above square should be formatted as below:
+```
+- + 4
+* - +
++ - 8
+- - -
+- - 1
+8 1 5
+```
+
+Usage:
+```
+make
+./mathsquare input_file.txt
+```
